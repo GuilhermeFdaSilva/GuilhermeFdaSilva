@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Guilherme Fernandes Da Silva
+- 👋 Hi, I’m **@Guilherme Fernandes Da Silva**
 - 👍 Meu gmail de contato é [email](guilhermefrabi@gmail.com) 
 - 👀 Estou interressado em aprender a progamar em diversas línguagens.
 - 🌱 Eu estou atualmente aprendendo a progamar em JavaScrpit
